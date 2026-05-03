@@ -1,0 +1,6 @@
+id,timestamp,Location,category,description,Priority,sentiment_score,status
+42,2026-05-03 17:09,Canteen,General Waste,The organic waste bins near the canteen are overflowing,3.05,0.0,In Progress
+44,2026-05-03 17:11,Sports Complex,General Waste,Several plastic water bottles have been left in the badminon court after the evening session,3.0,0.0,Pending
+40,2026-05-03 17:08,Hostel A,Water Leakage,Major pipe bursts in the ground floor washroom and the water is flooding away,2.94,0.0,Resolved
+41,2026-05-03 17:09,Library,General Waste,The central AC system in the study hall is running at maximum speed despite the room being empty,1.05,0.0,Resolved
+43,2026-05-03 17:10,Main Block,E-Waste,Old computer systems and tangled electric cables have been dumped near the staff lounge,0.9,0.0,Resolved
